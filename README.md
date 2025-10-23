@@ -91,7 +91,7 @@ Key Results:
 ---
 
 ### 🧰 Tools Used
-- NI Multisim 14.x  
+- NI Multisim 14.3  
 - Oscilloscope for waveform analysis  
 
 ---
